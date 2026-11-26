@@ -14,9 +14,9 @@ npm create vite@latest project-name
 
 Then:
 
-1. Replace the generated README with one written from [the template](../docs/project-readme-template.md).
+1. Replace the generated README with one that says what the project is, how to run it and what you built.
 2. Make sure the project's own `.gitignore` keeps `node_modules/` and `dist/` out of git.
-3. Commit early, in small steps ([git workflow](../docs/git-workflow.md)).
+3. Commit early, in small steps, with clear messages.
 4. Add a row to the "Featured projects" table in the main README when it is worth showing.
 
 ## One repository or many?
